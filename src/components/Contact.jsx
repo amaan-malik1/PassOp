@@ -27,10 +27,6 @@ const Contact = () => {
                         <FaLinkedin className="text-blue-700" />
                         <a target='__blank' href="https://www.linkedin.com/in/amaan-malik-36753527b/" className="hover:underline hover:text-blue-700">https://www.linkedin.com/in/amaan-malik</a>
                     </p>
-                    <p className="flex items-center justify-center space-x-2 text-gray-700">
-                        <FaTwitter className="text-blue-400" />
-                        <a target='__blank' href="https://twitter.com/yourtwitter" className="hover:underline hover:text-blue-700">@yourtwitter</a>
-                    </p>
                 </div>
             </div>
         </div>
